@@ -1,0 +1,13 @@
+current directory: /home/ac6546/sample_app/vendor/bundle/ruby/2.3.0/gems/json-2.0.3/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20170207-9595-1aeygxf.rb extconf.rb
+creating Makefile
+
+current directory: /home/ac6546/sample_app/vendor/bundle/ruby/2.3.0/gems/json-2.0.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/ac6546/sample_app/vendor/bundle/ruby/2.3.0/gems/json-2.0.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/ac6546/sample_app/vendor/bundle/ruby/2.3.0/gems/json-2.0.3/ext/json
+make "DESTDIR=" install
